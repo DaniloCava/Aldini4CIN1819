@@ -4,7 +4,7 @@ public class ciao {
 	public static void main(String [] args) {
 		System.out.println("ciao");
 		System.out.println("ciao");
-		System.out.println("Addio");
+		System.out.println("Ad");
 		System.out.println("pietrocolaSeibrutto");
 	}
 }
