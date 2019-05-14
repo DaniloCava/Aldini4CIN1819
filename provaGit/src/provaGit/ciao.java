@@ -6,5 +6,7 @@ public class ciao {
 		System.out.println("ciao");
 		System.out.println("Ad");
 		System.out.println("pietrocolaSeibrutto");
+		System.out.println("Addio");
+		System.out.println("Parbleu");
 	}
 }
